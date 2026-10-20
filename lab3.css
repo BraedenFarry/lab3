@@ -1,0 +1,5 @@
+body { background-color: rgb(159, 159, 157);}
+h1, h2, ul, ol { color: rgb(2, 66, 27) ; text-align: left; font-size: 50px; }
+hr { border: 5px solid black; }
+ul, ol { font-size: 30px; }
+p { color: rgb(48, 4, 82); text-align: left; font-size: 20px; font-weight: bold; }
